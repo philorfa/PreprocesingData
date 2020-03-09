@@ -1,7 +1,7 @@
 # PreprocesingData
 Data PreProcessing Techniques :
 
-1. impute \n
+1. impute
 2. encode
 3. split
 4. standardization
